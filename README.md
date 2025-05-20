@@ -1,5 +1,7 @@
 
-### 1a. ListOperations : Exp1-ListInterface/ArrayWorkedOutEx.png
+### 1a. ListOperations :
+ArrayList Demo: Exp1-ListInterface/ArrayList.png
+LinkedList Demo: Exp1-ListInterface/LinkedList.png
 
 ---
 ### 1b.  ArrayList programs

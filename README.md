@@ -1,22 +1,8 @@
-# Advanced Java Assignment 
 
-**Subject Name**: Advanced Java  
-**Subject Code**: BCS613D  
-**Name**: Samay Shetty  
-**USN**: 4AL22CS143  
-**Sem/Section**: VI/C  
-**Total Programs**: 28  
+### 1a. ListOperations : Exp1-ListInterface/ArrayWorkedOutEx.png
 
 ---
-
-### 1.a  Develop a Java program for adding elements   \[Apple, Banana, Orange] into an ArrayList and a  LinkedList  to  perform the   following  operations  with  different  functions  directed  as follows
-
-1. Adding elements,   2. Adding element at specific index, 3. Adding multiple elements, 4. Accessing elements,5. Updating elements, 6. Removing elements,  7. Searching elements,  8. List size, 9. Iterating over list, 10. Using Iterator,  11. Sorting, 12. Sublist, 13. Clearing the list
-   🔗 [Output Screenshot](Exp1-ListInterface/ArrayWorkedOutEx.png)
-
----
-
-### 1b.  Array List programs
+### 1b.  ArrayList programs
 
 1. Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
    🔗 [Output Screenshot](Exp1-ListInterface/p1.png)
@@ -35,7 +21,7 @@
 
 ---
 
-### 1c. Linked List Programs
+### 1c. LinkedList Programs
 
 1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
    🔗 [Output Screenshot](Exp1-ListInterface/p6.png)
@@ -53,84 +39,15 @@
    🔗 [Output Screenshot](Exp1-ListInterface/p10.png)
 
 ---
-
-
-### 2a. Develop a Java program for adding elements \[Apple, Banana, Orange] into HashSet, TreeSet and LinkedHashSet to perform the following operations directed as follows
-
-HashSet Demonstration \:HashSet after adding elements: \[Apple, Orange, Banana], Size of HashSet: 3, Is HashSet empty? false, Contains 'Apple'? true, Contains 'Grape'? False, After removing 'Banana': \[Apple, Orange]
-TreeSet Demonstration : TreeSet (automatically sorted): \[Elephant, Lion, Tiger, Zebra]
-LinkedHashSet Demonstration: LinkedHashSet (maintains insertion order): \[Red, Green, Blue]
-Set Operations Demonstration\:Union of sets: \[1, 2, 3, 4, 5, 6, 7, 8], Intersection of sets: \[4, 5]
-Difference of sets (set1 - set2): \[1, 2, 3]
-Iteration Demonstration : Using for-each loop,Using Iterator
-🔗 [Output Screenshot](Exp2-SetInterface/MapInterfaceDemo.png)
-
-### 2b. Map Excercises
-
-### HashMap
-
-1. Write a Java program to traverse / iterate all the keys with the specified value in a HashMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”)
-   \[ hint : 6. Iterating Over Map in the worked out example]
-   🔗 [Output Screenshot](Exp2-SetInterface/HM1.png)
-
-2. Remove the following all elements from the HashMap then verify that its size is zero and include once again following elements and check its size (1,”Banana”), (2,”Orange”), (3,”Guava”), (4,”Pomegranate ”), (5,”Amla”)
-   \[ Hint : clear() , size() and put()]
-   🔗 [Output Screenshot](Exp2-SetInterface/HM2.png)
-
-3. Write a Java program to copy all mappings from the specified map to another map as shown below
-   Hashmap1 => ( 1, "Red") ,(2, "Green"), (3, "Black")
-   Hashmap2 => (4, "White"),(5, "Blue"),(6, "Orange")
-   Add all the values of Hashmap1 intoLiberation Serif Hashmap2 and print the result
-   🔗 [Output Screenshot](Exp2-SetInterface/HM3.png)
-
-4. Write a Java program to check whether a map contains Key-Values mappings (empty) or not after adding all the following elements into Hashmap and after removing all the elements from the Hashmap. (1, "Red"),(2, "Green"), (3, "Black"), (4, "White"),(5, "Blue")
-   🔗 [Output Screenshot](Exp2-SetInterface/HM4.png)
-
-### TreeMap
-
-1. Write a Java program to traverse / iterate all the keys with the specified value in a TreeMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”)
-   \[ hint : put() ; for (Map.Entry\<Integer,String> entry : tree\_map.entrySet()); getKey() and getValue()]
-   🔗 [Output Screenshot](Exp2-SetInterface/TM1.png)
-
-2. Write a Java program to search for keys C4 and C5 are present or not in the following Tree Map. ("C1", "Red"); ("C2", "Green"); ("C3", "Black");("C4", "White")
-   🔗 [Output Screenshot](Exp2-SetInterface/TM2.png)
-
-3. Remove the following all elements from the TreeMap then verify that its size is zero and include once again following elements and iterate them and check its size (1,”Banana”), (2,”Orange”), (3,”Guava”), (4,”Pomegranate ”), (5,”Amla”)
-   \[ Hint : clear() , size() and put()]
-   🔗 [Output Screenshot](Exp2-SetInterface/TM3.png)
-
-4. Write a Java program to get the first (lowest) key and the last (highest) key currently in the following Treemap. ("C2", "Red"),("C1", "Green"), ("C4", "Black"), ("C3", "White")
-   \[ Hint : firstKey() and lastKey() ]
-   🔗 [Output Screenshot](Exp2-SetInterface/TM4.png)
-
-### LinkedHashMap
-
-1. Write a Java program to traverse / iterate all the keys with the specified value in a linked HashMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”) and display only elderly entered 4 elements only
-   \[ hint : Refer to 5. LinkedHashMap Demonstration of worked out example]
-   🔗 [Output Screenshot](Exp2-SetInterface/LHM1.png)
-
-2. Include the following elements into the LinkedHashMap called programminglanguages and print all of them. ("Java", 1995);("Python", 1991);(“JavaScript", 1995);("C++", 1985);
-   🔗 [Output Screenshot](Exp2-SetInterface/LHM2.png)
-
-3. Include the following elements into the LinkedHashMap called programminglanguages and print as follows. Java was developed in 1995 Python was developed in 1991. JavaScript was developed in 1995 C++ was developed in 1985
-   🔗 [Output Screenshot](Exp2-SetInterface/LHM3.png)
-
-4. Add elements in the same order in the LinkedHaspMap using for() loop and put()
-   String\[] keys = {"C", "A", "B", "E", "D"}; Integer\[] values = {3, 1, 2, 5, 4};
-   🔗 [Output Screenshot](Exp2-SetInterface/LHM4.png)
-
-
----
-
-### 3a. Develop a java program for performing various string operations with different string handling functions directed  as follows:
+### 2a. String Operations
 
 String Creation and Basic Operations, Length and Character Access, String Comparison,  String Searching, Substring Operations ,  String Modification, Whitespace Handling, String Concatenation, String Splitting,  StringBuilder Demo, String Formatting , Validate Email with contains( )  and startsWith() and endsWith()
 🔗 [Output Screenshot](Exp3a-StringOperations/StringHandlingDemo.png)
-
-### 3.b. Develop a Java program to make a  Performance Test on  StringBuffer and StringBuilder for appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify your answer which one is better.
+---
+### 2b. Performance Test on  StringBuffer and StringBuilder
 
 🔗 [Output Screenshot](Exp3b-StringPerformanceTest/Performanop.png)
-
+---
 ### 3b. String Exercise progams
 
 Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().

@@ -44,46 +44,26 @@ LinkedList Demo: [Exp1-ListInterface/LinkedList.png](https://github.com/VeigasLo
 ---
 ### 2a. String Operations
 
-String Creation and Basic Operations, Length and Character Access, String Comparison,  String Searching, Substring Operations ,  String Modification, Whitespace Handling, String Concatenation, String Splitting,  StringBuilder Demo, String Formatting , Validate Email with contains( )  and startsWith() and endsWith()
-Exp3a-StringOperations/StringHandlingDemo.png
+[Exp2-StringOperations/StringOperationsDemo.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp2-StringOperations/StringOperationsDemo.png)
+
 ---
 ### 2b. Performance Test on  StringBuffer and StringBuilder
 
-Exp3b-StringPerformanceTest/Performanop.png
+[Exp2-StringOperations/StringPerformanceTest.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp2-StringOperations/StringPerformanceTest.png)
+
+---
+### 3a. String Operations Demo
+
+[Exp3-StringHandling/StringOperationsDemo1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp3-StringHandling/StringOperationsDemo1.png)
+
 ---
 ### 3b. String Exercise progams
 
-Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().
-Exp3a-StringOperations/exp1.png
-
-Q2. Write a Java Program for Counting how many times a substring appears in a main string using user defined function countOccurrences()
-Exp3a-StringOperations/exp2.png
-
-Q3. Write a Java Program for  Reversing the characters in a string using user defined function reverseString().
-Exp3a-StringOperations/exp3.png
-
-Q4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case and punctuation) using user defined function isPalindrome():
-Exp3a-StringOperations/exp4.png
-
-Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined function removeWhitespace()
-Exp3a-StringOperations/exp5.png
+[Exp3-StringHandling/StringExcercises3b.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp3-StringHandling/StringExcercises3b.png)
 
 ### 3c. String Exercise progams
 
-Q6. Write a Java Program for  Capitalizing the first letter of each word. using user defined function capitalizeWords()
-Exp3a-StringOperations/exp6.png
-
-Q7. Write a Java Program for  Shortening a string to a specified length and adds an ellipsis using user defined function truncate()
-Exp3a-StringOperations/exp7.png
-
-Q8. Write a Java Program for  Verifying if a string contains only numeric characters using user defined function  isNumeric()
-Exp3a-StringOperations/exp8.png
-
-Q9. Write a Java Program for  Creating  a random string of a specified length using user defined function generateRandomString()
-Exp3a-StringOperations/exp9.png
-
-Q10. Write a Java Program for  Counting the number of words in a string using user defined function  countWords()
-Exp3a-StringOperations/exp10.png
+[Exp3-StringHandling/StringExcercises3c.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp3-StringHandling/StringExcercises3c.png)
 
 ---
 

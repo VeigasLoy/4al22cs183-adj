@@ -1,7 +1,8 @@
 
 ### 1a. ListOperations :
-ArrayList Demo: [Exp1-ListInterface/ArrayList.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/ArrayList.png
-LinkedList Demo: [Exp1-ListInterface/LinkedList.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/LinkedList.png
+ArrayList Demo: [Exp1-ListInterface/ArrayList.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/ArrayList.png)
+
+LinkedList Demo: [Exp1-ListInterface/LinkedList.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp1-ListInterface/LinkedList.png)
 
 ---
 ### 1b.  ArrayList programs
@@ -86,67 +87,62 @@ Exp3a-StringOperations/exp10.png
 
 ---
 
-### 4a. Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing Programming in Blue color plain font with font size of  32  using Jframe and Jlabel
+### 4a. Basic hello program of Swing
+[Exp4-Swings1/SwingExe1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp4-Swings1/SwingExe1.png)
 
-Exp4-Swings1/welcome.png
+### 4b. Swing Event Handling using JButton.
 
-### 4b. Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is pressed” depending upon the Jbutton either  Srilanka or India is pressed by implementing the event handling mechanism with addActionListener( ).
+[Exp4-Swings1/CountryButtonExample.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp4-Swings1/CountryButtonExample.png)
 
-Exp4-Swings1/ButtonEx.png
+### 4c. Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour Glass  is pressed”
 
-### 4c. Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour Glass  is pressed” depending upon the Jbutton with image  either  Digital Clock or  Hour Glass is pressed by implementing the event handling mechanism with addActionListener( ).
-
-Exp4-Swings1/ClockUI.png
-
-### 4d. Develop a simple swing program for illustrating mouse operations such as mouse down, up double click , single click with help of a button
-
-Exp4-Swings1/mouse.png
+[Exp4-Swings1/clock.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp4-Swings1/clock.png)
 
 ---
 
-### 5a. Develop a Swing program in Java to add the countries  USA,  India,  Vietnam,  Canada, Denmark, France,    Great Britain,  Japan,   Africa,  Greenland,  Singapore into a JList  and display them on console  whenever the countries are selected on the list.
+### 5a. CountryList
 
-Exp5-Swings2/JListExample1.png
+[Exp5-Swings2/CountryListConsole.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp5-Swings2/CountryListConsole.png)
 
-### 5b.  Develop a Swing program in Java to create a  Tabbed Pan of RED, BLUE and GREEN and display the concerned color  whenever the specific tab is selected in the Pan.
+### 5b.  Tabbed Pane Example
 
-hExp5-Swings2/tabbedpane1.png
+[Exp5-Swings2/ColorTabbedPane.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp5-Swings2/ColorTabbedPane.png)
 
-### 5c. Develop a Swing program in Java to add the countries  USA,  India,  Vietnam,  Canada,  Denmark, France,   Great Britain, Japan,   Africa, Greenland,  Singapore into a JList  and display the capital of the countries on console  whenever the countries are selected on the list.
+### 5c. CountryCapitalList
 
-Exp5-Swings2/JListExample2.png
+[Exp5-Swings2/JListExample2.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp5-Swings2/CountryCapitalList.png)
 
-### 5d.  Develop a Swing program in Java to create a  Tabbed Pan of Cyan, Magenta and Yellow and display the concerned color  whenever the specific tab is selected in the Pan
+### 5d.  Tabbed Pane Exercise 
 
-Exp5-Swings2/tabbedpane2.png
+[Exp5-Swings2/CTP1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp5-Swings2/CTP1.png)
 
 ---
 
-### 6a. Build a servlet program to find the factorial of a number using HTML with step by step procedure.
+### 6a. Factorial Servlet
 
-Exp6-Servlets/FactorialServlet/fact.png
+[Exp6-Servlets/FactorialServlet/fact.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/FactorialServlet.java)
 
-### 6b. Build a servlet program to  create a cookie to get your name through text box and press submit button( through HTML)  to display the message by greeting Welcome back your name ! , you have visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.
+### 6b. CookieServlet Demo
 
-Exp6-Servlets/CookieServlet/cookie.png
-Exp6-Servlets/CookieServlet/cookie2.png
+[Exp6-Servlets/CookieServlet/CookieServlet1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/CookieServlet1.png)
+[Exp6-Servlets/CookieServlet/CookieServlet2.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/CookieServlet2.png)
 
 ### 6c. Build a servlet program to check the given number is prime number or not using HTML with step by step procedure.
 
-Exp6-Servlets/PrimeServlet/prime.png
+[Exp6-Servlets/PrimeServlet/Prime.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/Prime.png)
+[Exp6-Servlets/PrimeServlet/Prime1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/Prime1.png)
 
 ---
 
-### 7a. Build a Session Management using JSP program set with one minute session expiry time  to get your name through text box and press submit  to  display  the message by greeting Hello your name!. Check the expiry of the session after one minute.
+### 7a. Session Management using JSP
 
-🔗 [Output Screenshot 1](Exp7-JSPSessionManagement/session1.png
-🔗 [Output Screenshot 2](Exp7-JSPSessionManagement/session2.png
-🔗 [Output Screenshot 3](Exp7-JSPSessionManagement/session3.png
+[Exp7-JSPSessionManagement/Session1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp7-JSPCookieManagement/Session1.png)
+[Exp7-JSPSessionManagement/Session2.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp7-JSPCookieManagement/Session1.png)
+[Exp7-JSPSessionManagement/Session3.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp7-JSPCookieManagement/Session1.png)
 
-### 7b. Construct a Cookie Management program using JSP to get the fields  Name, Domain and Max Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then it has to go to show the active cookie list when you press the link go to the active cookie list
+### 7b. Cookie Management using JSP
 
-🔗 [Output Screenshot 1](hExp7-JSPCookieManagement/Cookie1.png
-🔗 [Output Screenshot 2](hExp7-JSPCookieManagement/Cookie2.png
+[Exp7-JSPCookieManagement/CookieDemo.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp7-JSPCookieManagement/CookieDemo.png)
 
 ---
 
@@ -160,15 +156,15 @@ Exp8-SQL+JDBC/8B/8b.png
 
 ### 8c. Develop a JDBC project using JSP to append  the fields empno,  empname and basicsalary into the table Emp of the database Employee by getting the fields  through keyboard and Generate the report as follows for the  TABLE Emp (Emp\_NO , Emp\_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
 
-🔗 [Output Screenshot 1](Exp8-SQL+JDBC/8C/JDBC1.png
-🔗 [Output Screenshot 2](Exp8-SQL+JDBC/8C/JDBC1.1.png
+Exp8-SQL+JDBC/8C/JDBC1.png
+Exp8-SQL+JDBC/8C/JDBC1.1.png
 
 
 ### 8d. Develop a JDBC project using JDBC to update  the fields empno,  empname and basicsalary into the table Emp of the database Employee  using HTML and JSP to get the fields and display the results respectively
 
-🔗 [Output Screenshot 1](Exp8-SQL+JDBC/8D/JDBC2.png
-🔗 [Output Screenshot 2](Exp8-SQL+JDBC/8D/JDBC2.1.png
-🔗 [Output Screenshot 3](Exp8-SQL+JDBC/8D/JDBC2.2.png
+Exp8-SQL+JDBC/8D/JDBC2.png
+Exp8-SQL+JDBC/8D/JDBC2.1.png
+Exp8-SQL+JDBC/8D/JDBC2.2.png
 
 ---
 
@@ -182,10 +178,10 @@ Exp9-SQL+JDBC/9B/9b.png
 
 ### 9c. Develop a JDBC project using MySQL to append  the fields empno,  empname and basicsalary into the table Emp of the database Employee by getting the fields  through keyboard and Generate the report as follows for the table Emp (Emp\_NO , Emp\_Name, Basicsalary ) using HTML and JSP to get the field and display the results respectively
 
-🔗 [Output Screenshot 1](Exp9-SQL+JDBC/9C/JDBC3.png
-🔗 [Output Screenshot 2](Exp9-SQL+JDBC/9C/JDBC3.1.png
+Exp9-SQL+JDBC/9C/JDBC3.png
+Exp9-SQL+JDBC/9C/JDBC3.1.png
 
 ### 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database Employee by getting the name starting with ‘ID’   through keyboard and Generate the report as follows using HTML and JSP to get the field and display the results respectively
 
-🔗 [Output Screenshot 1](Exp9-SQL+JDBC/9D/JDBC4.png
-🔗 [Output Screenshot 2](Exp9-SQL+JDBC/9D/JDBC4.1.png
+Exp9-SQL+JDBC/9D/JDBC4.png
+Exp9-SQL+JDBC/9D/JDBC4.1.png

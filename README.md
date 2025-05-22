@@ -73,7 +73,7 @@ LinkedList Demo: [Exp1-ListInterface/LinkedList.png](https://github.com/VeigasLo
 
 [Exp4-Swings1/CountryButtonExample.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp4-Swings1/CountryButtonExample.png)
 
-### 4c. Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour Glass  is pressed”
+### 4c. Display a message “Digital Clock is pressed” or “Hour Glass  is pressed”
 
 [Exp4-Swings1/clock.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp4-Swings1/clock.png)
 

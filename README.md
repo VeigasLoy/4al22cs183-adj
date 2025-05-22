@@ -104,11 +104,15 @@ LinkedList Demo: [Exp1-ListInterface/LinkedList.png](https://github.com/VeigasLo
 ### 6b. CookieServlet Demo
 
 [Exp6-Servlets/CookieServlet/CookieServlet1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/CookieServlet1.png)
+
+
 [Exp6-Servlets/CookieServlet/CookieServlet2.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/CookieServlet2.png)
 
 ### 6c. Build a servlet program to check the given number is prime number or not using HTML with step by step procedure.
 
 [Exp6-Servlets/PrimeServlet/Prime.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/Prime.png)
+
+
 [Exp6-Servlets/PrimeServlet/Prime1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp6-Servlets/Prime1.png)
 
 ---
@@ -116,8 +120,14 @@ LinkedList Demo: [Exp1-ListInterface/LinkedList.png](https://github.com/VeigasLo
 ### 7a. Session Management using JSP
 
 [Exp7-JSPSessionManagement/Session1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp7-JSPCookieManagement/Session1.png)
+
+
 [Exp7-JSPSessionManagement/Session2.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp7-JSPCookieManagement/Session1.png)
+
+
 [Exp7-JSPSessionManagement/Session3.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp7-JSPCookieManagement/Session1.png)
+
+
 
 ### 7b. Cookie Management using JSP
 
@@ -140,6 +150,8 @@ LinkedList Demo: [Exp1-ListInterface/LinkedList.png](https://github.com/VeigasLo
 ### 8d. Update  the fields empno,  empname and basicsalary into the table Emp
 
 [Exp8cd9cd-EmployeeJDBC/update1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp8cd9cd-EmployeeJDBC/update1.png)
+
+
 [Exp8cd9cd-EmployeeJDBC/update2.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp8cd9cd-EmployeeJDBC/update2.png)
 
 ---

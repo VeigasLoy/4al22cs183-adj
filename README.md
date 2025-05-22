@@ -128,40 +128,36 @@ LinkedList Demo: [Exp1-ListInterface/LinkedList.png](https://github.com/VeigasLo
 
 ### 8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it \[Create a table coffee with fields ( id,coffee\_name,price)] using HTML and JSP to get the fields and display the results respectively
 
-Exp8-SQL+JDBC/8A/8a.png
+[Exp8ab9ab-CoffeeJDBC/insertCoffee.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp8ab9ab-CoffeeJDBC/insertCoffee.png)
 
 ### 8b. Read all the existing records from the table coffee which is from the database test and update an existing coffee product  in the table with its id. \[Create a table coffee with fields ( id,coffee\_name,price)] using HTML and JSP to get the fields and display the results respectively
 
-Exp8-SQL+JDBC/8B/8b.png
+[Exp8ab9ab-CoffeeJDBC/updateCoffee.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp8ab9ab-CoffeeJDBC/updateCoffee.png)
 
 ### 8c. Develop a JDBC project using JSP to append  the fields empno,  empname and basicsalary into the table Emp of the database Employee by getting the fields  through keyboard and Generate the report as follows for the  TABLE Emp (Emp\_NO , Emp\_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
 
-Exp8-SQL+JDBC/8C/JDBC1.png
-Exp8-SQL+JDBC/8C/JDBC1.1.png
+[Exp8cd9cd-EmployeeJDBC/InsertEmp.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp8cd9cd-EmployeeJDBC/InsertEmp.png)
 
 
 ### 8d. Develop a JDBC project using JDBC to update  the fields empno,  empname and basicsalary into the table Emp of the database Employee  using HTML and JSP to get the fields and display the results respectively
 
-Exp8-SQL+JDBC/8D/JDBC2.png
-Exp8-SQL+JDBC/8D/JDBC2.1.png
-Exp8-SQL+JDBC/8D/JDBC2.2.png
+[Exp8cd9cd-EmployeeJDBC/update1.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp8cd9cd-EmployeeJDBC/update1.png)
+[Exp8cd9cd-EmployeeJDBC/update2.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp8cd9cd-EmployeeJDBC/update2.png)
 
 ---
 
 ### 9a.  Read all the existing records from the table coffee which is from the database test and delete an existing coffee product  from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively
 
-Exp8-SQL+JDBC/9A/9a.png
+[Exp8ab9ab-CoffeeJDBC/DeleteCoffee.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp8ab9ab-CoffeeJDBC/DeleteCoffee.png)
 
 ### 9b. Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’  in the table using HTML and JSP to get the field and display the results respectively
 
-Exp9-SQL+JDBC/9B/9b.png
+[Exp8ab9ab-CoffeeJDBC/QueryD.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp8ab9ab-CoffeeJDBC/QueryD.png)
 
 ### 9c. Develop a JDBC project using MySQL to append  the fields empno,  empname and basicsalary into the table Emp of the database Employee by getting the fields  through keyboard and Generate the report as follows for the table Emp (Emp\_NO , Emp\_Name, Basicsalary ) using HTML and JSP to get the field and display the results respectively
 
-Exp9-SQL+JDBC/9C/JDBC3.png
-Exp9-SQL+JDBC/9C/JDBC3.1.png
+[Exp8cd9cd-EmployeeJDBC/salRep.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp8cd9cd-EmployeeJDBC/salRep.png)
 
 ### 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database Employee by getting the name starting with ‘ID’   through keyboard and Generate the report as follows using HTML and JSP to get the field and display the results respectively
 
-Exp9-SQL+JDBC/9D/JDBC4.png
-Exp9-SQL+JDBC/9D/JDBC4.1.png
+[Exp8cd9cd-EmployeeJDBC/deleteEmp.png](https://github.com/VeigasLoy/4al22cs183-adj/blob/main/Exp8cd9cd-EmployeeJDBC/deleteEmp.png)
